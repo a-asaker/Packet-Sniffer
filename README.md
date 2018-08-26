@@ -3,7 +3,7 @@
  
  Coded By : a-asaker
 
-# Note That ==>
-  To Run This Project Properly You Should Run This As 'Root' .
+# Notes : 
+  To Run This Project Properly You Should Run It As A 'Root' .
   
   This Project Doesn't Supported By Windows , Because It's A Raw Socket Project.
