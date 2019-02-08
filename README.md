@@ -4,6 +4,6 @@
  Coded By : a-asaker
 
 # Notes : 
-  To Run This Project Properly You Should Run It As A 'Root' .
+  - To Run This Project Properly You Should Run It As A 'Root' .
   
-  This Project Doesn't Supported By Windows , Because It's A Raw Socket Project.
+  - This Project Doesn't Supported By Windows , Because It's A Raw Socket Project.
